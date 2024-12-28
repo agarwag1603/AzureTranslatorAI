@@ -28,5 +28,10 @@
 
 Create AI Translation > Create a key vault > Create a service principal > Grant IAM role to service principal on key vault > Create a secret in key vault > Set the access policy for service principal > Create a python project > Install requirements.txt > Set the env variable in python IDE >  Run the code
 
+Reference:
+AI translation SDK:
+https://learn.microsoft.com/en-us/azure/ai-services/translator/quickstart-text-sdk?pivots=programming-language-python
+
+
 ### **Note: Do not show your keys in code, use the concept of service principal and key vault. Also, delete all the resources after use.**
 
