@@ -32,6 +32,5 @@ Reference:
 AI translation SDK:
 https://learn.microsoft.com/en-us/azure/ai-services/translator/quickstart-text-sdk?pivots=programming-language-python
 
-
 ### **Note: Do not show your keys in code, use the concept of service principal and key vault. Also, delete all the resources after use.**
 
